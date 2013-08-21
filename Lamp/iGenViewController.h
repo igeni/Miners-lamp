@@ -7,7 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
 
-@interface iGenViewController : UIViewController
+@interface iGenViewController : UIViewController {
+    UIImageView *image_lamp;
+    UIImageView *image_fire;
+    
+}
+
+-(void)gestureTapEvent:(UITapGestureRecognizer *)gesture;
 
 @end

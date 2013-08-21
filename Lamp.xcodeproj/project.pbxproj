@@ -23,6 +23,21 @@
 		5E11D87816F5ECB700D574A8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E11D85316F5ECB700D574A8 /* Foundation.framework */; };
 		5E11D88016F5ECB700D574A8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5E11D87E16F5ECB700D574A8 /* InfoPlist.strings */; };
 		5E11D88316F5ECB700D574A8 /* LampTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5E11D88216F5ECB700D574A8 /* LampTests.m */; };
+		5E11D89116F6043B00D574A8 /* iPhone4_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E11D89016F6043B00D574A8 /* iPhone4_1.png */; };
+		5E11D89316F6048500D574A8 /* fire.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E11D89216F6048500D574A8 /* fire.png */; };
+		5E11D89516F610B100D574A8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E11D89416F610B100D574A8 /* AVFoundation.framework */; };
+		5E11D89916F61EBE00D574A8 /* lamp_57.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E11D89816F61EBE00D574A8 /* lamp_57.png */; };
+		5E11D89B16F61EC400D574A8 /* lamp_114.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E11D89A16F61EC400D574A8 /* lamp_114.png */; };
+		5E5CD1CA16F9004C00EAB0D8 /* fire_0.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C016F9004C00EAB0D8 /* fire_0.gif */; };
+		5E5CD1CB16F9004C00EAB0D8 /* fire_1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C116F9004C00EAB0D8 /* fire_1.gif */; };
+		5E5CD1CC16F9004C00EAB0D8 /* fire_2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C216F9004C00EAB0D8 /* fire_2.gif */; };
+		5E5CD1CD16F9004C00EAB0D8 /* fire_3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C316F9004C00EAB0D8 /* fire_3.gif */; };
+		5E5CD1CE16F9004C00EAB0D8 /* fire_4.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C416F9004C00EAB0D8 /* fire_4.gif */; };
+		5E5CD1CF16F9004C00EAB0D8 /* fire_5.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C516F9004C00EAB0D8 /* fire_5.gif */; };
+		5E5CD1D016F9004C00EAB0D8 /* fire_6.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C616F9004C00EAB0D8 /* fire_6.gif */; };
+		5E5CD1D116F9004C00EAB0D8 /* fire_7.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C716F9004C00EAB0D8 /* fire_7.gif */; };
+		5E5CD1D216F9004C00EAB0D8 /* fire_8.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C816F9004C00EAB0D8 /* fire_8.gif */; };
+		5E5CD1D316F9004C00EAB0D8 /* fire_9.gif in Resources */ = {isa = PBXBuildFile; fileRef = 5E5CD1C916F9004C00EAB0D8 /* fire_9.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +51,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5E11D84E16F5ECB700D574A8 /* Lamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E11D84E16F5ECB700D574A8 /* Miner's lamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Miner's lamp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E11D85116F5ECB700D574A8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5E11D85316F5ECB700D574A8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5E11D85516F5ECB700D574A8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -58,6 +73,21 @@
 		5E11D87F16F5ECB700D574A8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5E11D88116F5ECB700D574A8 /* LampTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LampTests.h; sourceTree = "<group>"; };
 		5E11D88216F5ECB700D574A8 /* LampTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LampTests.m; sourceTree = "<group>"; };
+		5E11D89016F6043B00D574A8 /* iPhone4_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhone4_1.png; sourceTree = "<group>"; };
+		5E11D89216F6048500D574A8 /* fire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fire.png; sourceTree = "<group>"; };
+		5E11D89416F610B100D574A8 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		5E11D89816F61EBE00D574A8 /* lamp_57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lamp_57.png; path = ../lamp_57.png; sourceTree = "<group>"; };
+		5E11D89A16F61EC400D574A8 /* lamp_114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lamp_114.png; path = ../lamp_114.png; sourceTree = "<group>"; };
+		5E5CD1C016F9004C00EAB0D8 /* fire_0.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_0.gif; sourceTree = "<group>"; };
+		5E5CD1C116F9004C00EAB0D8 /* fire_1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_1.gif; sourceTree = "<group>"; };
+		5E5CD1C216F9004C00EAB0D8 /* fire_2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_2.gif; sourceTree = "<group>"; };
+		5E5CD1C316F9004C00EAB0D8 /* fire_3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_3.gif; sourceTree = "<group>"; };
+		5E5CD1C416F9004C00EAB0D8 /* fire_4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_4.gif; sourceTree = "<group>"; };
+		5E5CD1C516F9004C00EAB0D8 /* fire_5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_5.gif; sourceTree = "<group>"; };
+		5E5CD1C616F9004C00EAB0D8 /* fire_6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_6.gif; sourceTree = "<group>"; };
+		5E5CD1C716F9004C00EAB0D8 /* fire_7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_7.gif; sourceTree = "<group>"; };
+		5E5CD1C816F9004C00EAB0D8 /* fire_8.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_8.gif; sourceTree = "<group>"; };
+		5E5CD1C916F9004C00EAB0D8 /* fire_9.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = fire_9.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +95,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E11D89516F610B100D574A8 /* AVFoundation.framework in Frameworks */,
 				5E11D85216F5ECB700D574A8 /* UIKit.framework in Frameworks */,
 				5E11D85416F5ECB700D574A8 /* Foundation.framework in Frameworks */,
 				5E11D85616F5ECB700D574A8 /* CoreGraphics.framework in Frameworks */,
@@ -97,7 +128,7 @@
 		5E11D84F16F5ECB700D574A8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5E11D84E16F5ECB700D574A8 /* Lamp.app */,
+				5E11D84E16F5ECB700D574A8 /* Miner's lamp.app */,
 				5E11D87416F5ECB700D574A8 /* LampTests.octest */,
 			);
 			name = Products;
@@ -106,6 +137,7 @@
 		5E11D85016F5ECB700D574A8 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				5E11D89416F610B100D574A8 /* AVFoundation.framework */,
 				5E11D85116F5ECB700D574A8 /* UIKit.framework */,
 				5E11D85316F5ECB700D574A8 /* Foundation.framework */,
 				5E11D85516F5ECB700D574A8 /* CoreGraphics.framework */,
@@ -130,6 +162,11 @@
 		5E11D85816F5ECB700D574A8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5E5CD16F16F8F85300EAB0D8 /* fire */,
+				5E11D89016F6043B00D574A8 /* iPhone4_1.png */,
+				5E11D89216F6048500D574A8 /* fire.png */,
+				5E11D89816F61EBE00D574A8 /* lamp_57.png */,
+				5E11D89A16F61EC400D574A8 /* lamp_114.png */,
 				5E11D85916F5ECB700D574A8 /* Lamp-Info.plist */,
 				5E11D85A16F5ECB700D574A8 /* InfoPlist.strings */,
 				5E11D85D16F5ECB700D574A8 /* main.m */,
@@ -160,12 +197,29 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		5E5CD16F16F8F85300EAB0D8 /* fire */ = {
+			isa = PBXGroup;
+			children = (
+				5E5CD1C016F9004C00EAB0D8 /* fire_0.gif */,
+				5E5CD1C116F9004C00EAB0D8 /* fire_1.gif */,
+				5E5CD1C216F9004C00EAB0D8 /* fire_2.gif */,
+				5E5CD1C316F9004C00EAB0D8 /* fire_3.gif */,
+				5E5CD1C416F9004C00EAB0D8 /* fire_4.gif */,
+				5E5CD1C516F9004C00EAB0D8 /* fire_5.gif */,
+				5E5CD1C616F9004C00EAB0D8 /* fire_6.gif */,
+				5E5CD1C716F9004C00EAB0D8 /* fire_7.gif */,
+				5E5CD1C816F9004C00EAB0D8 /* fire_8.gif */,
+				5E5CD1C916F9004C00EAB0D8 /* fire_9.gif */,
+			);
+			name = fire;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5E11D84D16F5ECB700D574A8 /* Lamp */ = {
+		5E11D84D16F5ECB700D574A8 /* Miner's lamp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5E11D88616F5ECB700D574A8 /* Build configuration list for PBXNativeTarget "Lamp" */;
+			buildConfigurationList = 5E11D88616F5ECB700D574A8 /* Build configuration list for PBXNativeTarget "Miner's lamp" */;
 			buildPhases = (
 				5E11D84A16F5ECB700D574A8 /* Sources */,
 				5E11D84B16F5ECB700D574A8 /* Frameworks */,
@@ -175,9 +229,9 @@
 			);
 			dependencies = (
 			);
-			name = Lamp;
+			name = "Miner's lamp";
 			productName = Lamp;
-			productReference = 5E11D84E16F5ECB700D574A8 /* Lamp.app */;
+			productReference = 5E11D84E16F5ECB700D574A8 /* Miner's lamp.app */;
 			productType = "com.apple.product-type.application";
 		};
 		5E11D87316F5ECB700D574A8 /* LampTests */ = {
@@ -221,7 +275,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5E11D84D16F5ECB700D574A8 /* Lamp */,
+				5E11D84D16F5ECB700D574A8 /* Miner's lamp */,
 				5E11D87316F5ECB700D574A8 /* LampTests */,
 			);
 		};
@@ -237,6 +291,20 @@
 				5E11D86616F5ECB700D574A8 /* Default@2x.png in Resources */,
 				5E11D86816F5ECB700D574A8 /* Default-568h@2x.png in Resources */,
 				5E11D86B16F5ECB700D574A8 /* MainStoryboard.storyboard in Resources */,
+				5E11D89116F6043B00D574A8 /* iPhone4_1.png in Resources */,
+				5E11D89316F6048500D574A8 /* fire.png in Resources */,
+				5E11D89916F61EBE00D574A8 /* lamp_57.png in Resources */,
+				5E11D89B16F61EC400D574A8 /* lamp_114.png in Resources */,
+				5E5CD1CA16F9004C00EAB0D8 /* fire_0.gif in Resources */,
+				5E5CD1CB16F9004C00EAB0D8 /* fire_1.gif in Resources */,
+				5E5CD1CC16F9004C00EAB0D8 /* fire_2.gif in Resources */,
+				5E5CD1CD16F9004C00EAB0D8 /* fire_3.gif in Resources */,
+				5E5CD1CE16F9004C00EAB0D8 /* fire_4.gif in Resources */,
+				5E5CD1CF16F9004C00EAB0D8 /* fire_5.gif in Resources */,
+				5E5CD1D016F9004C00EAB0D8 /* fire_6.gif in Resources */,
+				5E5CD1D116F9004C00EAB0D8 /* fire_7.gif in Resources */,
+				5E5CD1D216F9004C00EAB0D8 /* fire_8.gif in Resources */,
+				5E5CD1D316F9004C00EAB0D8 /* fire_9.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -290,7 +358,7 @@
 /* Begin PBXTargetDependency section */
 		5E11D87A16F5ECB700D574A8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5E11D84D16F5ECB700D574A8 /* Lamp */;
+			target = 5E11D84D16F5ECB700D574A8 /* Miner's lamp */;
 			targetProxy = 5E11D87916F5ECB700D574A8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -334,7 +402,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: EVGENY KUBLIN (R3X9CAF5EA)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: EVGENY KUBLIN (R3X9CAF5EA)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -349,7 +418,10 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "3E5723E7-219E-42A5-8D20-0F26D5FC4A3B";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "3E5723E7-219E-42A5-8D20-0F26D5FC4A3B";
 				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Debug;
 		};
@@ -364,7 +436,8 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Developer: EVGENY KUBLIN (R3X9CAF5EA)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: EVGENY KUBLIN (R3X9CAF5EA)";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -372,6 +445,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PROVISIONING_PROFILE = "3E5723E7-219E-42A5-8D20-0F26D5FC4A3B";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "3E5723E7-219E-42A5-8D20-0F26D5FC4A3B";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
@@ -380,10 +455,15 @@
 		5E11D88716F5ECB700D574A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: EVGENY KUBLIN";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: EVGENY KUBLIN";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Lamp/Lamp-Prefix.pch";
 				INFOPLIST_FILE = "Lamp/Lamp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "DFCE1366-F8D3-42CB-9819-5932641B445A";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DFCE1366-F8D3-42CB-9819-5932641B445A";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -391,10 +471,15 @@
 		5E11D88816F5ECB700D574A8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Distribution: EVGENY KUBLIN";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: EVGENY KUBLIN";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Lamp/Lamp-Prefix.pch";
 				INFOPLIST_FILE = "Lamp/Lamp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "DFCE1366-F8D3-42CB-9819-5932641B445A";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "DFCE1366-F8D3-42CB-9819-5932641B445A";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -445,13 +530,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5E11D88616F5ECB700D574A8 /* Build configuration list for PBXNativeTarget "Lamp" */ = {
+		5E11D88616F5ECB700D574A8 /* Build configuration list for PBXNativeTarget "Miner's lamp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5E11D88716F5ECB700D574A8 /* Debug */,
 				5E11D88816F5ECB700D574A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5E11D88916F5ECB700D574A8 /* Build configuration list for PBXNativeTarget "LampTests" */ = {
 			isa = XCConfigurationList;
@@ -460,6 +546,7 @@
 				5E11D88B16F5ECB700D574A8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
